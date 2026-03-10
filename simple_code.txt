@@ -1,0 +1,6 @@
+var var1=10
+ if var1%2==0{
+console.log("This even value")
+} else{
+console.log("This odd value")
+}
