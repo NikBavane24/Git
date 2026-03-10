@@ -1,6 +1,8 @@
 var var1=10
  if var1%2==0{
+console.log("___result____")
 console.log("This even value")
 } else{
+console.log("___result____")
 console.log("This odd value")
 }
